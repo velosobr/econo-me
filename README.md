@@ -22,13 +22,8 @@ O aplicativo é desenvolvido em **Kotlin**, utilizando a arquitetura limpa (**Cl
 
 ### Usecases
 
-Os principais casos de uso que o EconoMe irá abordar são:
+Os principais casos de uso que o EconoMe irá abordar são descritos em detalhes na seção [Análise de Requisitos](ROADMAP.md#2---análise-de-requisitos)
 
-- **Registro de transações**: Os usuários podem registrar suas transações financeiras, incluindo receitas e despesas, para acompanhar seu fluxo de caixa.
-- **Criação de orçamento**: Os usuários podem criar um orçamento pessoal para gerenciar seus gastos e economizar dinheiro.
-- **Visualização de relatórios financeiros**: Os usuários podem visualizar relatórios e gráficos que resumem suas finanças, ajudando-os a entender seus hábitos de gastos.
-- **Configuração de lembretes de pagamento**: Os usuários podem configurar lembretes para pagamentos futuros para evitar multas por atraso.
-- **Definição de metas financeiras**: Os usuários podem definir metas financeiras, como economizar para uma grande compra ou pagar uma dívida, e acompanhar seu progresso em direção a essas metas.
 
 ### Próximos passos
 
