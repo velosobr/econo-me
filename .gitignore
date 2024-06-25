@@ -5,6 +5,7 @@ yarn-error.log
 package-lock.json
 yarn.lock
 backend_setup.MD
+dist/
 
 # Android/Kotlin
 *.iml
